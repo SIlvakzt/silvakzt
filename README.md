@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/c1ce60e8-0da4-4f58-ab8c-80ee55655dd8)
 <!--
 **SIlvakzt/silvakzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
